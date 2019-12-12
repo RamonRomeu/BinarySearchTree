@@ -1,0 +1,4 @@
+﻿  GraphD.cpp
+c:\users\ramon.romeu\source\repos\binarysearchtrees\grafos\graphd.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\ramon.romeu\source\repos\binarysearchtrees\grafos\graphd.cpp(50): warning C4018: '<': signed/unsigned mismatch
+  Grafos.vcxproj -> C:\Users\ramon.romeu\source\repos\BinarySearchTrees\Debug\Grafos.exe
